@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/justpanavia/GameHubLoader/refs/heads/main/Loader"))()
